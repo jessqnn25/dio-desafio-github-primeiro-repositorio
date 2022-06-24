@@ -1,4 +1,4 @@
-# Repositório do Desafio de projeto sobre Git/Github da DIO
+# Repositório do Desafio de projeto sobre Git/Github da DIO :woman_technologist:
 Repositório criado para o Desafio de Projeto.
 
 ## Links úteis 
